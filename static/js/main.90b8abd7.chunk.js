@@ -1,0 +1,2 @@
+(this["webpackJsonpfoodies-copy"]=this["webpackJsonpfoodies-copy"]||[]).push([[0],{40:function(e,t,c){},47:function(e,t,c){"use strict";c.r(t);var n=c(15),o=c(28),s=(c(40),c(29)),i=c(20);function r(){return Object(i.jsx)(s.a,{scene:"https://prod.spline.design/55n7dPTzggLt6aO8/scene.splinecode"})}var d=document.getElementById("root");Object(o.createRoot)(d).render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(r,{})}))}},[[47,1,2]]]);
+//# sourceMappingURL=main.90b8abd7.chunk.js.map
